@@ -1,7 +1,7 @@
 import axios from "axios";
 
 export const API = axios.create({
-  baseURL: "wayshub-production.up.railway.app/api/v1/"
+  baseURL: "https://wayshub-production.up.railway.app/api/v1/"
   // baseURL: 'http://localhost:5000/api/v1/',
 });
 
