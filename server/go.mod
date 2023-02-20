@@ -33,5 +33,5 @@ require (
 	golang.org/x/text v0.7.0 // indirect
 	gorm.io/driver/mysql v1.4.4 // indirect
 	gorm.io/driver/postgres v1.4.8 // indirect
-	gorm.io/gorm v1.24.2 // indirect
+	gorm.io/gorm v1.24.5 // indirect
 )
